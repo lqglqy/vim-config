@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/lqg/B_NIPS_CHINA-MOBILE-TEST_DPDK_CAP/userspace/vos/usr/sys/captor/dpdk/dpdk-2.1.0/lib/librte_eal/common'
+let g:netrw_dirhist_2='/home/lqg/B_NIPS_CHINA-MOBILE-TEST_DPDK_CAP/userspace/vos/usr/sys/captor/dpdk/dpdk-2.1.0/lib/librte_eal'
+let g:netrw_dirhist_3='/home/lqg/B_NIPS_CHINA-MOBILE-TEST_DPDK_CAP/userspace/vos/usr/sys/captor/dpdk/dpdk-2.1.0/lib/librte_eal/linuxapp'
+let g:netrw_dirhist_4='/home/lqg/B_NIPS_CHINA-MOBILE-TEST_DPDK_CAP/userspace/vos/usr/sys/captor/dpdk/dpdk-2.1.0/lib/librte_eal/linuxapp/kni'
+let g:netrw_dirhist_5='/home/lqg/B_NIPS_CHINA-MOBILE-TEST_DPDK_CAP/userspace/vos/usr/sys/captor/dpdk/dpdk-2.1.0/lib/librte_eal/linuxapp'
+let g:netrw_dirhist_6='/home/lqg/B_NIPS_CHINA-MOBILE-TEST_DPDK_CAP/userspace/vos/usr/sys/captor/dpdk/dpdk-2.1.0/lib/librte_eal/linuxapp/eal'
+let g:netrw_dirhist_7='/home/lqg/B_NIPS_CHINA-MOBILE-TEST_DPDK_CAP/userspace/vos/usr/sys/captor/dpdk/dpdk-2.1.0/lib/librte_eal/linuxapp/eal/include'
+let g:netrw_dirhist_8='/home/lqg/B_NIPS_CHINA-MOBILE-TEST_DPDK_CAP/userspace/vos/usr/sys/captor/dpdk/dpdk-2.1.0/lib/librte_eal/linuxapp/eal/include/exec-env'
+let g:netrw_dirhist_9='/home/lqg/B_NIPS_CHINA-MOBILE-TEST_DPDK_CAP/userspace/vos/scripts/build'
